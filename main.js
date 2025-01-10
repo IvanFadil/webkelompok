@@ -1,6 +1,6 @@
 // Base URL Configuration
 const WORKSPACE = "Bantayan"; // Workspace GeoServer
-const BASE_URL = "http://localhost";
+const BASE_URL = "https://0045-36-91-52-250.ngrok-free.app";
 const GEOSERVER_URL = `${BASE_URL}:8080/geoserver/${WORKSPACE}/wms?`;
 
 // Loader Element
