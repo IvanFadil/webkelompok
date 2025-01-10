@@ -1,7 +1,7 @@
 // Base URL Configuration
 const WORKSPACE = "Bantayan"; // Workspace GeoServer
 const BASE_URL = "http://localhost";
-const GEOSERVER_URL = `${BASE_URL}:8080/geoserver/${WORKSPACE}/wms?`;
+const GEOSERVER_URL = `https://0045-36-91-52-250.ngrok-free.app/geoserver/gisSungaiPauhfix/wms?`;
 
 // Loader Element
 function showLoader(show) {
